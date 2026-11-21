@@ -1,18 +1,18 @@
-<!-- 1. HAREKETLİ DALGA & PARILTI EFEKTLİ ÜST BANNER -->
+<!-- 1. HAREKETLİ DALGA & PARILTI EFEKTLİ ÜST BANNER (XML HATASI GİDERİLDİ) -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:19002E,70:002B36,100:00FF41&height=210&section=header&text=root%40kasirga%3A~%23&fontSize=46&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Low-Level%20Systems%20%7C%20Red%20%26%20Blue%20Team%20%7C%20Embedded%20Security&descAlignY=62&descSize=16&descColor=00F0FF" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:19002E,70:002B36,100:00FF41&height=210&section=header&text=root%40kasirga%3A~%23&fontSize=46&fontColor=00FF41&animation=twinkling&fontAlignY=38&desc=Low-Level%20Systems%20%7C%20Red%20%2B%20Blue%20Team%20%7C%20Embedded%20Security&descAlignY=62&descSize=16&descColor=00F0FF" />
 </div>
 
-<!-- 2. HAREKETLİ DAKTİLO TERMİNAL AKIŞI -->
+<!-- 2. HAREKETLİ DAKTİLO TERMİNAL AKIŞI (GENİŞLİK AYARLANDI) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&multiline=false&width=840&lines=%5B%2B%5D+Booting+ZeruX+OS+32-bit+x86+Custom+Kernel...;%5B%21%5D+Red+Team%3A+Exploit+Dev%2C+Pwn+%26+Active+Directory;%5B%2A%5D+Blue+Team%3A+Wazuh+SIEM%2C+Sysmon+%26+Threat+Hunting;%5B%7E%5D+Hardware+Lab%3A+MAVLink+UAV+%26+ESP32%2FRF+Telemetry" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=700&color=00F0FF&center=true&vCenter=true&multiline=false&width=900&lines=%5B%2B%5D+Booting+ZeruX+OS+32-bit+x86+Custom+Kernel...;%5B%21%5D+Red+Team%3A+Exploit+Dev%2C+Pwn+%26+Active+Directory;%5B%2A%5D+Blue+Team%3A+Wazuh+SIEM%2C+Sysmon+%26+Threat+Hunting;%5B%7E%5D+Hardware+Lab%3A+MAVLink+UAV+%26+ESP32+RF+Telemetry" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- 3. CANLI PROFİL SAYAÇLARI & DURUM ROZETLERİ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kadirduyar&label=SIGNAL+INTERCEPTS&color=00FF41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KadirDuyar&label=SIGNAL+INTERCEPTS&color=00FF41&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/HANDLE-kasirga-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/RED_TEAM-OFFENSIVE-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0055" />
   <img src="https://img.shields.io/badge/BLUE_TEAM-DEFENSIVE-0D1117?style=for-the-badge&logo=wireshark&logoColor=00F0FF" />
@@ -41,7 +41,7 @@ kasirga@security-lab:~$ neofetch --off
 
   </td>
     <td width="38%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirduyar&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="Top Languages Donut" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirDuyar&layout=donut-vertical&langs_count=6&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9" alt="Top Languages Donut" />
     </td>
   </tr>
 </table>
@@ -95,30 +95,38 @@ kasirga@security-lab:~$ neofetch --off
 <!-- HAREKETLİ NEON LAZER AYRAÇ -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
+### `> cat /var/log/credentials.log`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/CERTIFIED-CAPT_(Hackviser)-0D1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/CERTIFIED-Junior_SOC_Analyst-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/CERTIFIED-Cisco_CyberOps_%26_CCNA1-0D1117?style=for-the-badge&logo=cisco&logoColor=00F0FF" />
+  <img src="https://img.shields.io/badge/LAB_TRACK-CRTA_(Red_Team)-0D1117?style=for-the-badge&logo=kalilinux&logoColor=FF0055" />
+  <img src="https://img.shields.io/badge/CTF_PLAYER-kasirga_(HTB_%7C_THM_%7C_PortSwigger)-0D1117?style=for-the-badge&logo=tryhackme&logoColor=B026FF" />
+</div>
+
+<!-- HAREKETLİ NEON LAZER AYRAÇ -->
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ### `> ./telemetry_monitor.sh --live`
 
 <!-- RENKLİ AKTİVİTE DALGA GRAFİĞİ -->
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kadirduyar&bg_color=0D1117&color=00F0FF&line=00FF41&point=FF0055&area=true&hide_border=true" alt="Contribution Wave Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KadirDuyar&bg_color=0D1117&color=00F0FF&line=00FF41&point=FF0055&area=true&hide_border=true" alt="Contribution Wave Graph" />
 </div>
 
 <!-- NEON İSTATİSTİK & SERİ KARTLARI -->
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kadirduyar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9" />
-  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=kadirduyar&hide_border=true&background=0D1117&ring=00FF41&fire=FF0055&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-</div>
-
-<!-- RENKLİ BAŞARIM KUPALARI -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kadirduyar&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=KadirDuyar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF0055&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=KadirDuyar&hide_border=true&background=0D1117&ring=00FF41&fire=FF0055&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </div>
 
 <!-- HAREKETLİ KATKI YILANI (SNAKE ANIMATION) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kadirduyar/kadirduyar/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kadirduyar/kadirduyar/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kadirduyar/kadirduyar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KadirDuyar/KadirDuyar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KadirDuyar/KadirDuyar/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KadirDuyar/KadirDuyar/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
 
