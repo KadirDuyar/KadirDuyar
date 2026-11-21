@@ -20,7 +20,7 @@
 ```bash
 kasirga@security-lab:~$ neofetch --off
        .---.        Operator   : Kadir Duyar (kasirga)
-      /     \       Location   : Ankara, TR [39.9334° N, 32.8597° E]
+      /     \       Location   : TR 
       \.@-@./       Role       : Systems & Security Researcher (Red / Blue Team)
       /`\_/`\       Kernel     : Custom 32-bit x86 (ZeruX OS) / Linux Internals
      //  _  \\      Hardware   : Raspberry Pi 5 | ESP32 | nRF24L01 | CH341A
